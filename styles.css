@@ -1,6 +1,7 @@
 .footer{
     margin-left : 60px;
     font-size : 20px;
+    align-text: center;
   }
   .row1{
     display: grid;
@@ -41,3 +42,4 @@
     background-color: rgb(102, 102, 202);
 
   }
+
